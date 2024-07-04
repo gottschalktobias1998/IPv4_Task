@@ -54,5 +54,5 @@ Um den TypeScript-Code zu kompilieren und das Projekt auszuführen, verwende fol
 
 ## Projektstruktur
 
-Das Projekt ist in mehrere Dateien unterteilt, um die Modularität und Wiederverwendbarkeit des Codes zu gewährleisten:
+Das Projekt ist in mehrere Dateien unterteilt, um die Modularität und Wiederverwendbarkeit des Codes zu gewährleisten.
 
