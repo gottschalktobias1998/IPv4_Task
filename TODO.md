@@ -1,0 +1,2 @@
+- Refactoring code
+- Impliment unit-tests. Naming > test_functionName
