@@ -34,6 +34,5 @@ console.log(`Berechnete Subnetzmaske für Blockgröße ${blockSize}: ${subnetMas
 const ip = "192.168.1.255";
 console.log(`Ist ${ip} eine Broadcast-Adresse? ${isBroadcastAddress(ip, subnetMask)}`);
 
-// Beispielaufruf
 ipv4_info("192.168.1.10", subnetMask);
 ipv4_info("192.168.1.10", "/24");
